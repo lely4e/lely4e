@@ -1,5 +1,4 @@
-## Hi there 👋
-# I’m Olga  
+## Hi there, I’m Olga 👋
 
 I used to make things *look* good.  
 Now I’m learning how to make them *work* good.  
@@ -26,15 +25,6 @@ Graphic designer turned aspiring backend engineer — currently deep-diving into
 
 ## ⚡ Current Mission
 Leveling up from *“this works on my machine”* to *“this scales in production.”*  
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lely4e&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lely4e&layout=compact&theme=radical)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lely4e&theme=radical)  
 
 ---
 
