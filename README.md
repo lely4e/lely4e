@@ -16,10 +16,10 @@ Graphic designer turned aspiring backend engineer — currently deep-diving into
 
 ---
 
-## 🎭 Personality Mix
+## 🧜🏻‍♀️ Personality Mix
 - 🎬 Big fan of David Lynch-style films: part dream, part nightmare, and you’re never 100% sure what just happened — kind of like debugging  
 - 🐱 Cat whisperer (or servant, depending on who you ask)  
-- ☕ Runs on curiosity, sarcasm, and the occasional existential crisis  
+- ✨ Runs on curiosity, sarcasm, and the occasional existential crisis  
 
 ---
 
