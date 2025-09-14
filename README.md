@@ -28,8 +28,6 @@ Leveling up from *“this works on my machine”* to *“this scales in producti
 
 ---
 
-💬 *P.S. My code may not always make sense — but hey, neither do David Lynch movies.*  
-
 🎵 *Easter Egg:* Best enjoyed while listening to eerie background music. Don’t ask questions. Just let it happen. 👁️  
 
 <sub>Curious? [Click here for a surprise](https://www.youtube.com/watch?v=dQw4w9WgXcQ) (or don’t, it’s all part of the experience) 👀</sub>
