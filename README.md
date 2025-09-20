@@ -1,4 +1,4 @@
-## Hi there, I’m Olga 👋
+## Hey, I’m Olga 👋
 
 I used to make things *look* good.  
 Now I’m learning how to make them *work* good.  
