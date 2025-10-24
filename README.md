@@ -9,7 +9,7 @@ Graphic designer turned aspiring backend engineer — currently deep-diving into
 
 ## 🛠 Tech Playground
 - **Languages & Tools (in progress):**  
-  🐍 Python • 🖥 HTML • 🎨 CSS • 🗄 SQLite • 🌶 Flask  
+  🐍 Python • 🖥 HTML • 🎨 CSS • 🗄 SQLite • 🌶 Flask • 🐘 PosgreSQL • ⚡️ FastAPI
 
 - **Design Sidekick Powers:**  
   ✏️ Photoshop • 🖌 Illustrator • 🎛 Figma • 🖼 Affinity  
