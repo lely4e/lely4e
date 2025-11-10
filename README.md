@@ -23,8 +23,8 @@ Graphic designer turned aspiring backend engineer — currently deep-diving into
 
 ---
 
-## ⚡ Current Mission
-Leveling up from *“this works on my machine”* to *“this scales in production.”*  
+## ⚡ Currently Working On
+I'm currently working on a FastAPI-based backend for a group polling and voting app with JWT authentication, PostgreSQL. Focused on clean architecture and robust error handling. 
 
 ---
 
