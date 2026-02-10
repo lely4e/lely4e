@@ -9,7 +9,7 @@ Graphic designer turned aspiring backend engineer — currently deep-diving into
 
 ## 🛠 Tech Playground
 - **Languages & Tools (in progress):**  
-  🐍 Python • 🖥 HTML • 🎨 CSS • 🗄 SQLite • 🌶 Flask • 🐘 PostgreSQL • ⚡️ FastAPI
+  🐍 Python • ⚡️ FastAPI • 🐘 PostgreSQL • 🗄 SQLite • 🌶 Flask • 🖥 HTML • 🎨 CSS • ⚛️ React • 📜 JavaScript • 📘 TypeScript 
 
 - **Design Sidekick Powers:**  
   ✏️ Photoshop • 🖌 Illustrator • 🎛 Figma • 🖼 Affinity  
@@ -24,7 +24,7 @@ Graphic designer turned aspiring backend engineer — currently deep-diving into
 ---
 
 ## ⚡ Currently Working On
-I'm currently working on a FastAPI-based backend for a group polling and voting app with JWT authentication, PostgreSQL. Focused on clean architecture and robust error handling. 
+I'm currently working on a FastAPI-based backend for a group polling and voting app with JWT authentication, PostgreSQL. Focused on frontend side with React and TypeScript.
 
 ---
 
