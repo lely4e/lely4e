@@ -3,16 +3,29 @@
 I used to make things *look* good.  
 Now I’m learning how to make them *work* good.  
 
-Graphic designer turned aspiring backend engineer — currently deep-diving into code, databases, and that magical thing people call "debugging at 3AM."  
+Graphic designer turned Junior Fullstack Developer, building with FastAPI and React TS.  
 
 ---
 
 ## 🛠 Tech Playground
-- **Languages & Tools (in progress):**  
-  🐍 Python • ⚡️ FastAPI • 🐘 PostgreSQL • 🗄 SQLite • 🌶 Flask • 🖥 HTML • 🎨 CSS • ⚛️ React • 📜 JavaScript • 📘 TypeScript 
+- **Backend:**  
+  🐍 Python • ⚡️ FastAPI • 🌶 Flask • 🐘 PostgreSQL • 🗄 SQLite • 🔴 Redis
+
+- **Frontend:**  
+  ⚛️ React • 📘 TypeScript • 📜 JavaScript • 🖥 HTML • 🎨 CSS • 💨 Tailwind
+  
+- **Everything else in the bag:**  
+  🐳 Docker • 🧪 pytest, Vitest, Cypress • 🔁 GitHub Actions • 🤖 Google Gemini API
 
 - **Design Sidekick Powers:**  
   ✏️ Photoshop • 🖌 Illustrator • 🎛 Figma • 🖼 Affinity  
+
+---
+
+## ⚡ What I'm Building
+
+Choosr - a collaborative group voting app for people who genuinely cannot decide on a gift. FastAPI + PostgreSQL + Redis, JWT auth, AI-generated suggestions via Gemini, React/TypeScript frontend, CI/CD through GitHub Actions. 
+<sub>[🔗 Live demo](https://choosr-pied.vercel.app/)</sub>
 
 ---
 
@@ -20,11 +33,6 @@ Graphic designer turned aspiring backend engineer — currently deep-diving into
 - 🎬 Big fan of David Lynch-style films: part dream, part nightmare, and you’re never 100% sure what just happened — kind of like debugging  
 - 🐱 Cat whisperer (or servant, depending on who you ask)  
 - ✨ Runs on curiosity, sarcasm, and the occasional existential crisis  
-
----
-
-## ⚡ Currently Working On
-I'm currently working on a FastAPI-based backend for a group polling and voting app with JWT authentication, PostgreSQL. Focused on frontend side with React and TypeScript.
 
 ---
 
